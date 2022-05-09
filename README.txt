@@ -3,5 +3,5 @@ elle est en pause par défaut, il y a un mode étape par étape grâce au bouton
 et un mode en continue grâce au bouton "play"
 l1 miashs td02
 Marie-Antoine Boulanger 
-safae 
-fouad
+Safae Bechani
+fouad Serkoukou
